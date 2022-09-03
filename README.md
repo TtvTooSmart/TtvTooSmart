@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### Hi I'm Shivam "TtvTooSmart" joshi 👋
+
+#### A little about me
+
+- I love Cybersecutrity and backend developement
+- You'll find me on Discord **TtvTooSmart#0496**
+- I love to work with communities :D
+- I love gaming 
+- immortal in valo ;)
+
+<br/>
+
 <!--
 **TtvTooSmart/TtvTooSmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
