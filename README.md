@@ -13,7 +13,8 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <br/>
-[![An image of @ttvtoosmart's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ttvtoosmart)](https://holopin.io/@ttvtoosmart)
+
+[![@rphi's ](https://holopin.me/ttvtoosmart)](https://holopin.io/@ttvtoosmart)
 <!--
 **TtvTooSmart/TtvTooSmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
