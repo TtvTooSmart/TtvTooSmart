@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi I'm Shivam "TtvTooSmart" joshi 👋
+### Hi I'm Shivam "TooSmart" joshi 👋
 
 #### A little about me
 
@@ -11,8 +11,8 @@
 - immortal in valo ;)
 <br>
 
-![Portfolio](https://img.shields.io/badge/:badgeContent?logo=%23018EF5&logoColor=%23000000&label=Portfolio&labelColor=fcbbfa&color=a83faf&link=https%3A%2F%2Fttvtoosmart.github.io%2F)
-
+<!-- ![Portfolio](https://img.shields.io/badge/:badgeContent?logo=%23018EF5&logoColor=%23000000&label=Portfolio&labelColor=fcbbfa&color=a83faf&link=https%3A%2F%2Fttvtoosmart.github.io%2F)
+-->
 <br>
 
 [![@rphi's ](https://holopin.me/ttvtoosmart)](https://holopin.io/@ttvtoosmart)
