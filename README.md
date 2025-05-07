@@ -9,10 +9,11 @@
 - I love to work with communities :D
 - I love gaming 
 - immortal in valo ;)
+<br>
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![Portfolio](https://img.shields.io/badge/:badgeContent?logo=%23018EF5&logoColor=%23000000&label=Portfolio&labelColor=fcbbfa&color=a83faf&link=https%3A%2F%2Fttvtoosmart.github.io%2F)
 
-<br/>
+<br>
 
 [![@rphi's ](https://holopin.me/ttvtoosmart)](https://holopin.io/@ttvtoosmart)
 <!--
